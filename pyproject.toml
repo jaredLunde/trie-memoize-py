@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "trie-memoize"
 version = "0.1.0"
-description = ""
+description = "A memoization algorithm in which each function argument represents a new key, creating a trie of caches as defined by your setup."
 readme = 'README.md'
 authors = ["Jared Lunde <jared@BeStellar.co>"]
 
