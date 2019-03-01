@@ -3,7 +3,7 @@ name = "trie-memoize"
 version = "0.1.0"
 description = ""
 readme = 'README.md'
-authors = ["Jared Lunde <jared.lunde@gmail.com>"]
+authors = ["Jared Lunde <jared@BeStellar.co>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
